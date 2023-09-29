@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Public Economics"
+    ]
+  ],
+  "legacy_uid": "68c30861-b80a-5446-3aa6-cab6dbdd3609",
+  "instructors": {
+    "content": [
+      "ae6e8160-ad6f-3cca-bdac-c889cfb860bc",
+      "dcdd5fa5-1aa9-1781-6fd1-2c9f28fc3c8f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fc3e7c73-3376-05fb-7f4a-ce9f7cd5c8e8",
+    "website": "14-471-public-economics-i-fall-2012"
+  },
+  "course_title": "Public Economics I",
+  "course_description": "This course covers theory and evidence on government taxation policy. Topics include tax incidence, optimal tax theory, the effect of taxation on labor supply and savings, taxation and corporate behavior, and tax expenditure policy.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.471",
+  "course_image_thumbnail": {
+    "content": "482a73c7-1368-eb28-7422-2bc15fd9759f",
+    "website": "14-471-public-economics-i-fall-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "5be7b60d-f78c-4d2e-bd05-2cc7ed2b5401",
+  "site_short_id": "14.471-fall-2012",
+  "title": "Course Metadata"
+}
